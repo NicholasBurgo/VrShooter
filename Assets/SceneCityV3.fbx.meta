@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 3035057b483db1b41b2ba13bcb3e62cc
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 307740081ace1b28
+    second: {fileID: 2800000, guid: c181d47aca1130e42b92365737ac9ebd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3cbb64d3f254c9bc
+    second: {fileID: 2800000, guid: 03ad5782ea7d13b45b05484495ec01be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 90327dba0d11f712
+    second: {fileID: 2800000, guid: 4feef573fc5e1bc419b159b7877baa64, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ads1
+    second: {fileID: 2800000, guid: 4fc18eaa83171e2418556bbfe25f08bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ads2
+    second: {fileID: 2800000, guid: 7917cd4d13cd2464bae6801fa36e8182, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ads3
+    second: {fileID: 2800000, guid: ad7b9afac52159e4bb4f6569570e7555, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ads4
+    second: {fileID: 2800000, guid: 23eb53ce8bc15ec44af7245ca39a6ffa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ads5
+    second: {fileID: 2800000, guid: 9cc89d0bcd2c6944da110a9ffefac52f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ads6
+    second: {fileID: 2800000, guid: 6976cc165695da34aa76d3dfc8cd7bd6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ads7
+    second: {fileID: 2800000, guid: 927c6a0e08619374d8cfc57d5a2019d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ads9
+    second: {fileID: 2800000, guid: 7aa1533af615b384c99fc527f4454457, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Building
+    second: {fileID: 2800000, guid: 659d23f32ca5b1b49943e5eab2647630, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Building3
+    second: {fileID: 2800000, guid: 9b69a3c0c02cfeb468e3594367c62429, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Building4
+    second: {fileID: 2800000, guid: 1dabe61ed63b891459764a17fe3fc75c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Building7
+    second: {fileID: 2800000, guid: b06665c3081ebcb4b95c8385d403ff5d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CoorpLogo2
+    second: {fileID: 2800000, guid: 0d6c47aaa8f44a841afa06f589b87729, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CorpoLogo
+    second: {fileID: 2800000, guid: adac09a72aa6e4d40b4b0ab276a15591, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GroundTexture
+    second: {fileID: 2800000, guid: 022e1cac32247e04d8645d11593d98fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GroundTexture3
+    second: {fileID: 2800000, guid: c8147b32e50886e4babf966772c64b3e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nerdaali_sci-fi_futuristic_advertising_cybepunk_with_big_texts_24b9b4f7-4a98-4dde-9a41-2f629423b626
+    second: {fileID: 2800000, guid: d4e5d5e6133702f4cb8c1d40eb155981, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NormalMapBuilding2
+    second: {fileID: 2800000, guid: 235a6b78a0a9bd34795fb3ef7d10cd9b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NormalMapBuilding3
+    second: {fileID: 2800000, guid: c9f1162a49a59af409006686c6149bc5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NormalMapBuilding4
+    second: {fileID: 2800000, guid: eb821c4bc8a48574cbd10f4eff4f1044, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NormalMapBuilding7
+    second: {fileID: 2800000, guid: f996b9f618682ed4db5db8a13e4cf74b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NormalMapContainer
+    second: {fileID: 2800000, guid: b5590d1b50d0c524484edbe862ee1e2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NormalMapGround
+    second: {fileID: 2800000, guid: a9bba62f49b9d4d4fbbe73c36f8ffe76, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NormalMapGround3
+    second: {fileID: 2800000, guid: e9aae20d82f854e48b1606eaf1f15569, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NormalMapLights
+    second: {fileID: 2800000, guid: 32f4dfd62cd5e6b44b836a0f4525196d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: a3684944304df00d
+    second: {fileID: 2800000, guid: 195fdbf0c0260024baeaa41ea6e333f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: adb5c62fa53fc036
+    second: {fileID: 2800000, guid: ff4fcbb02e3585b419cffabecbf759ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ads11
+    second: {fileID: 2800000, guid: 4eb21b1ef60104746b50979b3433dca6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: container
+    second: {fileID: 2800000, guid: 9e7f7d016aed10d4896f0ede87e8c4cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f0ea7bb69607efc0
+    second: {fileID: 2800000, guid: dc8c80e952775f149ac07a4b965ba766, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: windowswhite2
+    second: {fileID: 2800000, guid: ee704bd3a18b59347bee2fafbc3424f6, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

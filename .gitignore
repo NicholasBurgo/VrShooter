@@ -1,0 +1,49 @@
+# === Unity Generated Files ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+MemoryCaptures/
+
+# === Visual Studio / JetBrains / Rider Files ===
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.pidb
+*.suo
+*.user
+*.unityproj
+*.tmp
+*.booproj
+*.svd
+
+# === Unity Asset Meta Files ===
+# *.meta
+
+# === Ignore Unity Builds ===
+*.apk
+*.aab
+*.unitypackage
+
+# === Ignore Package Cache ===
+[Pp]ackages/com.unity.*
+[Pp]ackages/packages-lock.json
+
+# === Ignore Plugin and Generated Files ===
+/Library/
+!Assets/
+!ProjectSettings/
+!Packages/
+
+# === Ignore Logs and Cache ===
+*.log
+*.stacktrace
+*.bak
+
+# === Ignore Other OS-Specific Files ===
+.DS_Store
+Thumbs.db
