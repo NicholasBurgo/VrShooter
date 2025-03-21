@@ -4,7 +4,7 @@ using System.Collections;
 public class IntersectionManager : MonoBehaviour
 {
     [Tooltip("The three lane nodes (IntersectionNodes) for this intersection.")]
-    public IntersectionNode[] lanes; // assign exactly three IntersectionNode references
+    public IntersectionNode[] lanes; 
 
     [Tooltip("How long (in seconds) a lane stays active before switching.")]
     public float greenTime = 5f;

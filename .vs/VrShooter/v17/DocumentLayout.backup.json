@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userselu\\VrShooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6A01FF-C4C6-567B-5CAA-5A51E45BB073}|Assembly-CSharp.csproj|c:\\users\\userselu\\vrshooter\\assets\\npcpath\\scripts\\ainode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6A01FF-C4C6-567B-5CAA-5A51E45BB073}|Assembly-CSharp.csproj|solutionrelative:assets\\npcpath\\scripts\\ainode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6A01FF-C4C6-567B-5CAA-5A51E45BB073}|Assembly-CSharp.csproj|c:\\users\\userselu\\vrshooter\\assets\\npcpath\\scripts\\playerposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6A01FF-C4C6-567B-5CAA-5A51E45BB073}|Assembly-CSharp.csproj|solutionrelative:assets\\npcpath\\scripts\\playerposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6A01FF-C4C6-567B-5CAA-5A51E45BB073}|Assembly-CSharp.csproj|C:\\Users\\userselu\\VrShooter\\assets\\trafficsystem\\exitnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6A01FF-C4C6-567B-5CAA-5A51E45BB073}|Assembly-CSharp.csproj|solutionrelative:assets\\trafficsystem\\exitnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6A01FF-C4C6-567B-5CAA-5A51E45BB073}|Assembly-CSharp.csproj|c:\\users\\userselu\\vrshooter\\assets\\trafficsystem\\intersectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6A01FF-C4C6-567B-5CAA-5A51E45BB073}|Assembly-CSharp.csproj|solutionrelative:assets\\trafficsystem\\intersectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6A01FF-C4C6-567B-5CAA-5A51E45BB073}|Assembly-CSharp.csproj|c:\\users\\userselu\\vrshooter\\assets\\trafficsystem\\intersectionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6A01FF-C4C6-567B-5CAA-5A51E45BB073}|Assembly-CSharp.csproj|solutionrelative:assets\\trafficsystem\\intersectionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExitNode.cs",
+              "DocumentMoniker": "C:\\Users\\userselu\\VrShooter\\Assets\\TrafficSystem\\ExitNode.cs",
+              "RelativeDocumentMoniker": "Assets\\TrafficSystem\\ExitNode.cs",
+              "ToolTip": "C:\\Users\\userselu\\VrShooter\\Assets\\TrafficSystem\\ExitNode.cs",
+              "RelativeToolTip": "Assets\\TrafficSystem\\ExitNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:42:55.488Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerPosition.cs",
+              "DocumentMoniker": "C:\\Users\\userselu\\VrShooter\\Assets\\NpcPath\\Scripts\\PlayerPosition.cs",
+              "RelativeDocumentMoniker": "Assets\\NpcPath\\Scripts\\PlayerPosition.cs",
+              "ToolTip": "C:\\Users\\userselu\\VrShooter\\Assets\\NpcPath\\Scripts\\PlayerPosition.cs",
+              "RelativeToolTip": "Assets\\NpcPath\\Scripts\\PlayerPosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:42:21.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IntersectionNode.cs",
+              "DocumentMoniker": "C:\\Users\\userselu\\VrShooter\\Assets\\TrafficSystem\\IntersectionNode.cs",
+              "RelativeDocumentMoniker": "Assets\\TrafficSystem\\IntersectionNode.cs",
+              "ToolTip": "C:\\Users\\userselu\\VrShooter\\Assets\\TrafficSystem\\IntersectionNode.cs",
+              "RelativeToolTip": "Assets\\TrafficSystem\\IntersectionNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:31:13.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntersectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\userselu\\VrShooter\\Assets\\TrafficSystem\\IntersectionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TrafficSystem\\IntersectionManager.cs",
+              "ToolTip": "C:\\Users\\userselu\\VrShooter\\Assets\\TrafficSystem\\IntersectionManager.cs",
+              "RelativeToolTip": "Assets\\TrafficSystem\\IntersectionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:16:41.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AiNode.cs",
+              "DocumentMoniker": "C:\\Users\\userselu\\VrShooter\\Assets\\NpcPath\\Scripts\\AiNode.cs",
+              "RelativeDocumentMoniker": "Assets\\NpcPath\\Scripts\\AiNode.cs",
+              "ToolTip": "C:\\Users\\userselu\\VrShooter\\Assets\\NpcPath\\Scripts\\AiNode.cs",
+              "RelativeToolTip": "Assets\\NpcPath\\Scripts\\AiNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:43:17.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
